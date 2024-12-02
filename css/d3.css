@@ -1,0 +1,98 @@
+h1 {
+    color: #8E26C0;
+    font-family: "JetBrains Mono";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: capitalize;
+    text-align: center;
+    
+}
+
+
+#div{
+    width: 565px;
+    height: 86px;
+    background: #FFE8E8;
+    color: red;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-top: 32px ;
+}
+#red_Text{
+    font-size: 32px;
+    text-align: center;
+    padding-top: 20px;
+}
+#div2 {
+    width: 1023;
+    height: 144;
+    background-color: white;
+    border: 3px;
+    border-right: 6px solid #05F;
+    border-left: 4px solid #C11574;
+    margin-bottom: auto;
+    border-top: 4px solid  green;
+    border-bottom: 4px solid purple;
+    margin-top: 32px;
+
+}
+#red_border {
+            color: #85647B;
+            text-align: center;
+            font-family: Lato;
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+}
+#div3 {
+        display: flex;
+        width: 1023px;
+        padding: 24px 40px;
+        align-items: center;
+        gap: 10px;
+        background: #FFE8E8;
+        margin-top: 32px;
+
+}
+#black_text {
+    color: #414651;
+    text-align: center;
+    font-family: Lato;
+    font-size: 32px;    
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+span {
+    color: red;
+}
+#div4 {
+    display: flex;
+    width: 1069px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid #3538CD;
+    margin-top: 32px;
+
+}
+#blue_text {
+    color: #0064CE;
+    text-align: right;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+img {
+    width: 556px;
+    height: 347px;
+    flex-shrink: 0;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+    margin-top: 32px;
+
+}
